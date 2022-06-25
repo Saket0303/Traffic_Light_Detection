@@ -1,4 +1,4 @@
-                                                                #TRAFFIC LIGHT DETECTION
+                                                                # TRAFFIC LIGHT DETECTION
                                                        
                                                        
                     The program is provided with an image of blue box, inside which three white circles are given out of which one of the       
